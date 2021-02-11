@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C8E0D02A25D5D3D7001EED39 /* double-point-chart.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8E0D02925D5D3D7001EED39 /* double-point-chart.swift */; };
 		C8E49C9425D4A48A006667FF /* doublepoint_chartApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8E49C9325D4A48A006667FF /* doublepoint_chartApp.swift */; };
 		C8E49C9625D4A48A006667FF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8E49C9525D4A48A006667FF /* ContentView.swift */; };
 		C8E49C9825D4A48C006667FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8E49C9725D4A48C006667FF /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C8E0D02925D5D3D7001EED39 /* double-point-chart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "double-point-chart.swift"; sourceTree = "<group>"; };
 		C8E49C9025D4A48A006667FF /* doublepoint-chart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "doublepoint-chart.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8E49C9325D4A48A006667FF /* doublepoint_chartApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = doublepoint_chartApp.swift; sourceTree = "<group>"; };
 		C8E49C9525D4A48A006667FF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				C8E49C9725D4A48C006667FF /* Assets.xcassets */,
 				C8E49C9C25D4A48C006667FF /* Info.plist */,
 				C8E49C9925D4A48C006667FF /* Preview Content */,
+				C8E0D02925D5D3D7001EED39 /* double-point-chart.swift */,
 			);
 			path = "doublepoint-chart";
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				C8E49C9625D4A48A006667FF /* ContentView.swift in Sources */,
 				C8E49C9425D4A48A006667FF /* doublepoint_chartApp.swift in Sources */,
+				C8E0D02A25D5D3D7001EED39 /* double-point-chart.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
