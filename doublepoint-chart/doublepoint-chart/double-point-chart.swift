@@ -115,6 +115,6 @@ struct doublePointBar: View {
                         .frame(height: (point.highPoint - point.lowPoint) * CGFloat(pointHeight))
                 }
             }
-        }.frame(height: CGFloat(height - 20))
+        }.frame(width: CGFloat(width), height: CGFloat(height - 20))
     }
 }
